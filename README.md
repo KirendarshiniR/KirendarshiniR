@@ -8,6 +8,10 @@ Hi! I'm Kirendarshini, a cyber security student with a passion for learning and 
 * JavaScript
 * Node.js
 * Ansible
+* Python
+* Incidence Reponse
+* Pentesting
+* Network Security
 
 ## Contact
 

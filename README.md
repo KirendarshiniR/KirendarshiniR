@@ -1,20 +1,20 @@
-# Kirendarshini
+## Hi there, I'm Kirendarshini 👋
 
-Hi! I'm Kirendarshini, a cyber security student with a passion for learning and exploring new technologies. I'm currently focusing on expanding my knowledge in Django, JavaScript, Node.js, and Ansible. Feel free to connect with me to discuss tech, share ideas, or collaborate on projects.
+I’m a cybersecurity student who loves building things and learning by doing.
 
-## Skills
+Right now I’m focused on:
+- Understanding Linux system behavior
+- Exploring basic security automation
+- Practicing Python scripting on real system logs
 
-* Django
-* JavaScript
-* Node.js
-* Ansible
-* Python
-* Incidence Reponse
-* Pentesting
-* Network Security
+I’m also planning a project to study attacker behavior using honeypots — I’m documenting the planning and learning phases here on GitHub.
 
-## Contact
+### Skills I’m building
+- 🐧 Linux fundamentals
+- 🧠 Security concepts and log analysis
+- 🐍 Python scripting for automation
+- 🔄 Version control with Git
+- 💡 Automation tools like Ansible
 
-* [Email](kirendarshini@example.com)
-* [LinkedIn](https://www.linkedin.com/in/kirendarshini-r-3359aa226/)
-
+### Let’s connect!
+Feel free to reach out on LinkedIn or drop me an email. I’m always happy to learn from others and collaborate on cool projects.
